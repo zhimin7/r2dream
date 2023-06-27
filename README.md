@@ -117,7 +117,7 @@ Python在以下领域都有用武之地。
 
 [第1天 urllib库学习(持续更新中)](https://www.r2dream.cn/#/content/pythonscrapy/01-15/urllib库的使用教学)
 
-[第2天 requests库的使用(无内容)](https://www.r2dream.cn/#/)
+[第2天 听说你觉得urllib很难是吗？(持续更新中)](https://www.r2dream.cn/#/content/pythonscrapy/01-15/requests库的使用)
 
 [第3天 正则表达式(无内容)](https://www.r2dream.cn/#/)
 
